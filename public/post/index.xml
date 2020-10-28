@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Irish Ecological Association</title>
+    <link>/post/</link>
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Fri, 31 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-32.png</url>
+      <title>Posts</title>
+      <link>/post/</link>
+    </image>
+    
+    <item>
+      <title>Press Release: Biodiversity Action</title>
+      <link>/post/bio_action/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      <guid>/post/bio_action/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Press release from The Irish Ecological Association, c/o ERI, UCC. May 31st 2019&lt;/strong&gt;
+Ecological science is critical for responding to the climate and biodiversity emergency.
+A major focus of ecological science is the study of how climate and biodiversity interact to provide essential life support systems and services to the economy and society, and how these are likely to change in the future.
+Maintaining and restoring biodiversity is now recognised as essential for the wellbeing and sustainability of human society. The recent UN IPBES reports that 1 million species are at risk of extinction, that life support systems are under increasing threat, and has highlighted the importance of understanding the patterns and processes that underpin ecological systems.
+The UN IPCC climate change report has identified even greater impacts than previously recognised, and has predicted significant and rapid changes to the earth’s climate and ecological systems. This has galvanised climate action worldwide and has rightly led to the recognition of the climate emergency in a growing number of countries, including Ireland.
+Climate and biodiversity issues are strongly coupled. While biodiversity can be severely impacted by climate change it can also provide important solutions that facilitate both mitigation and adaptation options. Actions taken to address climate change in isolation can have negative consequences for biodiversity but actions taken for biodiversity can have significant benefits for climate action.
+Ecological science is critical for responding to the climate and biodiversity emergency. Ecologists are employed across many, and influence most, sectors of society including: health, infrastructure, agriculture, forestry, fisheries, tourism, planning, development, natural resource management, finance and education.&lt;/p&gt;
+
+&lt;p&gt;The Irish Ecological Association endorses immediate, evidence-based biodiversity action. The ecological knowledge base is already more than sufficient to put in place impactful nature based solutions that will benefit climate and biodiversity action together. For example, implementation of the i) National Biodiversity Action Plan and ii) Ireland’s Biodiversity Sectoral Climate Change Adaptation Plan will be critical to achieving these aims, while the EPA have highlighted the value of “Carbon Sequestration by Hedgerows in the Irish Landscape”.
+Engagement with ecological expertise is essential to guide best practise conservation action. Building ecological capacity across government, local authorities and society is essential
+The Irish Ecological Association represents ca. 250 members and promotes the science of nature in Ireland. Members come from all higher education institutions and professional organisations including business and industry, NGOs, local authorities, government and government agencies, especially the EPA, Teagasc and National Parks and Wildlife Services.&lt;/p&gt;
+
+&lt;p&gt;References
+&lt;a href=&#34;https://www.epa.ie/pubs/reports/research/climate/ccrp-32-for-webFINAL.pdf&#34; target=&#34;_blank&#34;&gt;https://www.epa.ie/pubs/reports/research/climate/ccrp-32-for-webFINAL.pdf&lt;/a&gt;
+&lt;a href=&#34;https://www.npws.ie/legislation/national-biodiversity-plan&#34; target=&#34;_blank&#34;&gt;https://www.npws.ie/legislation/national-biodiversity-plan&lt;/a&gt;
+&lt;a href=&#34;https://www.npws.ie/news/public-consultation-irelands-biodiversity-sectoral-climate-change-adaptation-plan&#34; target=&#34;_blank&#34;&gt;https://www.npws.ie/news/public-consultation-irelands-biodiversity-sectoral-climate-change-adaptation-plan&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

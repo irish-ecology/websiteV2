@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ecology | Irish Ecological Association</title>
+    <link>/tags/ecology/</link>
+      <atom:link href="/tags/ecology/index.xml" rel="self" type="application/rss+xml" />
+    <description>ecology</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-32.png</url>
+      <title>ecology</title>
+      <link>/tags/ecology/</link>
+    </image>
+    
+    <item>
+      <title>3rd Ecology &amp; Evolution Ireland Conference</title>
+      <link>/events/ecoevo2021/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/events/ecoevo2021/</guid>
+      <description>&lt;p&gt;Hosted Online by UCC, Cork.&lt;/p&gt;
+
+&lt;p&gt;Our virtual conference 2021 will feature plenary talks by:
+Yvonne Buckley,
+John Finn,
+Kristine Bohmann &amp;amp;
+Xavier Harrison&lt;/p&gt;
+
+&lt;p&gt;Preliminary programme:
+Interactive live sessions,
+Posters and video posters,
+Social events &amp;amp;
+IEA Awards Ceremony&lt;/p&gt;
+
+&lt;p&gt;For more details,to register or to submit an abstract please visit &lt;a href=&#34;https://www.irishecologicalassociation-conference.org/&#34; target=&#34;_blank&#34;&gt;https://www.irishecologicalassociation-conference.org/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
