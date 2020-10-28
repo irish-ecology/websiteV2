@@ -9,7 +9,7 @@ email: ""
 interests: 
 - Research Assistant and Data Manager of [PLANTPOPNET](https://www.plantpopnet.com/) 
 
-name: Alain Fin
+name: Alain Finn
 weight: 6
 organizations:
 - name: Trinity College Dublin
