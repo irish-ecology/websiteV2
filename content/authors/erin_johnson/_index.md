@@ -13,7 +13,7 @@ weight: 13
 organizations:
 - name: Mott MacDonald
   url: ""
-role: Professor of Zoology
+role: Ordinary member
 social:
 - icon: envelope
   icon_pack: fas
