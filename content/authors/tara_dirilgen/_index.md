@@ -28,6 +28,5 @@ user_groups:
 - Committee
 - 
 ---
-Ecologist interested in biodiversity in and on the earth.
-Postdoctoral researcher (maternity cover) on the SUSPOLL  project. Starting an IRC  postdoctoral fellowship in January 2021 working on the project From Roots to Pollinators: How above- and below-ground organisms interact through plants.
+Ecologist interested in biodiversity in and on the earth. Postdoctoral researcher (maternity cover) on the SUSPOLL  project. Starting an IRC  postdoctoral fellowship in January 2021 working on the project From Roots to Pollinators: How above- and below-ground organisms interact through plants.
 ---
