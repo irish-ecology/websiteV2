@@ -7,8 +7,7 @@ People:
 email: ""
 
 interests: 
--Ecologist interested in biodiversity in and on the earth.
--Postdoctoral researcher (maternity cover) on the SUSPOLL  project. Starting an IRC  postdoctoral fellowship in January 2021 working on the project From Roots to Pollinators: How above- and below-ground organisms interact through plants.
+- Postdoctoral Researcher at [University College Dublin](https://www.stanleyecologylab.org/labmembers) on the [SUSPOLL](https://suspoll.ucd.ie/) project
 
 name: Dr. Tara Dirilgen
 weight: 9
@@ -29,6 +28,6 @@ user_groups:
 - Committee
 - 
 ---
-
-Postdoctoral Researcher at [University College Dublin](https://www.stanleyecologylab.org/labmembers) on the [SUSPOLL](https://suspoll.ucd.ie/) project
-
+Ecologist interested in biodiversity in and on the earth.
+Postdoctoral researcher (maternity cover) on the SUSPOLL  project. Starting an IRC  postdoctoral fellowship in January 2021 working on the project From Roots to Pollinators: How above- and below-ground organisms interact through plants.
+---
