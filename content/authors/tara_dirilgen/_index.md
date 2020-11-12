@@ -5,7 +5,7 @@ People:
   courses:
   - 
 email: ""
-interests: 
+: 
 - Postdoctoral Researcher at [University College Dublin](https://www.stanleyecologylab.org/labmembers) on the [SUSPOLL](https://suspoll.ucd.ie/) project
 
 name: Dr. Tara Dirilgen
