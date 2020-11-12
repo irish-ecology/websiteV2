@@ -5,11 +5,8 @@ People:
   courses:
   - 
 email: ""
-<<<<<<< HEAD
+
 interests: 
-=======
-Interests: 
->>>>>>> 4ea773aacc4748982d70595f44cd6e1ca864376d
 -Ecologist interested in biodiversity in and on the earth.
 -Postdoctoral researcher (maternity cover) on the SUSPOLL  project. Starting an IRC  postdoctoral fellowship in January 2021 working on the project From Roots to Pollinators: How above- and below-ground organisms interact through plants.
 
