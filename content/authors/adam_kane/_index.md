@@ -19,9 +19,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:adam.kane@ucd.ie"
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/P1zPalu
 - icon: github
   icon_pack: fab
   link: https://github.com/kanead
