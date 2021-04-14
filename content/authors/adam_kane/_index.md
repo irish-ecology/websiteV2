@@ -13,7 +13,7 @@ name: Dr. Adam Kane
 weight: 13
 organizations:
 - name: University College Dublin
-  url: " https://kanead.github.io/"
+  url: " https://people.ucd.ie/adam.kane"
 role: Communications Officer
 social:
 - icon: envelope
@@ -21,7 +21,7 @@ social:
   link: "mailto:adam.kane@ucd.ie"
 - icon: github
   icon_pack: fab
-  link: https://github.com/kanead
+  link: https://people.ucd.ie/adam.kane
 superuser: false
 user_groups:
 - Committee
