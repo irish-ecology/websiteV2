@@ -14,7 +14,7 @@ weight: 2
 organizations:
 - name: University College Cork
   url: " http://ornithology.ucc.ie/people/prof-john-quinn/"
-role: Vice-President (ROI)
+role: Ordinary Member
 social:
 - icon: envelope
   icon_pack: fas

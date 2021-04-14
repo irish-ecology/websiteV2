@@ -12,7 +12,7 @@ interests:
 name: Dr. Jon Yearsley
 weight: 4
 organizations:
-- name: University College Cork
+- name: University College Dublin
   url: ""
 role: Secretary
 social:

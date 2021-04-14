@@ -9,8 +9,8 @@ name: Dr. Tancredi Caruso
 weight: 3
 organizations:
 - name: University College Dublin
-  url: " https://pure.qub.ac.uk/en/persons/tancredi-caruso"
-role: Vice-President (NI)
+  url: " https://people.ucd.ie/tancredi.caruso"
+role: Vice-President (ROI)
 social:
 - icon: envelope
   icon_pack: fas

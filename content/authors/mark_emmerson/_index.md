@@ -14,7 +14,7 @@ weight: 8
 organizations:
 - name: Queen's University Belfast 
   url: " https://pure.qub.ac.uk/en/persons/mark-emmerson"
-role: Policy rep (NI)
+role: VP (NI)
 social:
 - icon: envelope
   icon_pack: fas
