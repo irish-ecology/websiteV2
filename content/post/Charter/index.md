@@ -3,7 +3,7 @@ authors:
 - admin
 categories:
 
-date: "2019-05-31T00:00:00Z"
+date: "2021-04-14T00:00:00Z"
 draft: false
 featured: false
 image:
@@ -11,12 +11,12 @@ image:
   focal_point: ""
   placement: 2
   preview_only: false
-lastmod: "2019-05-31T00:00:00Z"
+lastmod: "2021-04-14T00:00:00Z"
 projects: []
 subtitle: 
 summary: 
 tags:
-title: 'Press Release: Biodiversity Action'
+title: 'USI-SIPTU Postgraduate Charter'
 ---
 
 *IEA Statement on the USI-SIPTU Postgraduate Charter*
