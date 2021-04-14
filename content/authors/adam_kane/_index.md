@@ -14,7 +14,7 @@ weight: 13
 organizations:
 - name: University College Dublin
   url: " https://kanead.github.io/"
-role: Ordinary member
+role: Communications Officer
 social:
 - icon: envelope
   icon_pack: fas
