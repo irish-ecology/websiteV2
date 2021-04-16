@@ -20,4 +20,9 @@ title: 'USI-SIPTU Postgraduate Charter'
 ---
 
 *IEA Statement on the USI-SIPTU Postgraduate Charter*
+
+The Union of Students in Ireland and SIPTU recently created a charter, "to highlight and protect the working rights of postgraduate students accessing third level education." The full charter is accessible here: https://usi.ie/postgraduate-affairs/postgradcharter/
+
+The IEA's statement on this charter is as follows:
+
 “Whilst the USI-SIPTU charter goes beyond the remit of the IEA we are fully supportive of its context and the need for equity of access to an ecological education and career for postgraduate researchers and for the necessary supports to be put in place within the higher education institutions in Ireland to this end. This is important if we are to get a diverse cohort of scientists taking up ecological careers, which is in turn essential for dealing with the large scale, geographically disparate and multidisciplinary problems that many ecologists tackle.”
