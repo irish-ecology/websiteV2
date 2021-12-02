@@ -28,7 +28,7 @@ social:
   link: https://www.instagram.com/irish_ecology/
 - icon: youtube
   icon_pack: fab
-  link: https://studio.youtube.com/channel/UC6oKTh7r0R51ggu5-cUA9QQ/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D
+  link: https://www.youtube.com/channel/UC6oKTh7r0R51ggu5-cUA9QQ
 superuser: true
 user_groups:
 -
