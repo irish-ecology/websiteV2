@@ -2,12 +2,12 @@
 authors:
 - adam_kane
 
-People: 
+People:
   courses:
-  - 
+  -
 email: ""
-interests: 
-- Lecturer/Assistant Professor in Zoology at [University College Dublin](https://kanead.github.io/) 
+interests:
+- Lecturer/Assistant Professor in Zoology at [University College Dublin](https://people.ucd.ie/adam.kane) 
 
 name: Dr. Adam Kane
 weight: 13
@@ -21,13 +21,11 @@ social:
   link: "mailto:adam.kane@ucd.ie"
 - icon: github
   icon_pack: fab
-  link: https://people.ucd.ie/adam.kane
+  link: https://kanead.github.io/
 superuser: false
 user_groups:
 - Committee
-- 
+-
 ---
 
 ---
-
-
