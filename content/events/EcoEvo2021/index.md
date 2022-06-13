@@ -1,21 +1,21 @@
 +++
 # Project title.
-title = "3rd Ecology & Evolution Ireland Conference"
+title = "4th Ecology & Evolution Ireland Conference"
 
 # Date posted
-date = "2020-10-16"
+date = "2022-06-13"
 
 # Date of the event
-start_date = 2021-01-07
+start_date = 2023-01-05
 
 # Optional end date for more than one day
-end_date = 2021-01-08
+end_date = 2023-01-06
 
 # Location of event
-location = "UCC, Cork"
+location = "Trinity College Dublin"
 
 # Event summary to display on homepage.
-summary = "The 3rd Ecology and Evolution Ireland virtual conference will take place on **7th-8th Jan, 2021**"
+summary = "The 4th Ecology and Evolution Ireland virtual conference will take place on **5th-6th Jan, 2023**"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -25,28 +25,16 @@ tags = ["biodiversity", "ecology", "climate change", "human activities", "event"
 external_link = ""
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder. 
+# To use, add an image named `featured.jpg/png` to your project's folder.
 [image]
   # Caption (optional)
-  caption = "" 
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Center"
 +++
 
-Hosted Online by UCC, Cork.
+Hosted by Trinity College Dublin
 
-Our virtual conference 2021 will feature plenary talks by:
-Yvonne Buckley,
-John Finn,
-Kristine Bohmann &
-Xavier Harrison
-
-Preliminary programme:
-Interactive live sessions,
-Posters and video posters,
-Social events &
-IEA Awards Ceremony
-
-For more details,to register or to submit an abstract please visit https://www.irishecologicalassociation-conference.org/
+Abstract submission in September, registration open until mid November.

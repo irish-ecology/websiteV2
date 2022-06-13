@@ -62,7 +62,7 @@ Across the island of Ireland, the IEA aims to:
 **Latest News**
 ----
 <!---{{< tweet 1084813060198547457 >}} -->
-{{< tweet 1461623474028519427 >}}
+{{< tweet 1526192080485289984 >}}
 
 <!---
 #----
