@@ -37,6 +37,5 @@ external_link = ""
 
 Hosted by Trinity College Dublin
 
-Please submit your abstract here: https://forms.gle/1Sq53TTNwjM5Cs1p7, by 19th October. Registration
-can be done through Eventbrite until 21st November: https://www.eventbrite.co.uk/e/ecology-
-evolution-ireland-2023-tickets-417988313297. We look forward to seeing you in January!
+Please submit your abstract here: https://forms.gle/1Sq53TTNwjM5Cs1p7 by 19th October. Registration
+can be done through Eventbrite until 21st November: https://www.eventbrite.co.uk/e/ecology-evolution-ireland-2023-tickets-417988313297. We look forward to seeing you in January!
