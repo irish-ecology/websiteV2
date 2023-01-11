@@ -1,18 +1,18 @@
 ---
 authors:
 - helen_shaw
-People: 
+People:
   courses:
-  - 
+  -
 email: ""
 interests:  
 - Lecturer in biogeography at [Maynooth University](https://www.maynoothuniversity.ie/people/helen-shaw)
 name: Dr. Helen Shaw
 weight: 13
 organizations:
-- name: Maynooth University 
+- name: Maynooth University
   url: " https://www.maynoothuniversity.ie/people/helen-shaw"
-role: Ordinary member
+role: Policy Coordinator 
 social:
 - icon: envelope
   icon_pack: fas
@@ -26,7 +26,7 @@ social:
 superuser: false
 user_groups:
 - Committee
-- 
+-
 ---
 My research explores long-term landscape and ecological change; and the use of this knowledge in analysing the potential for sustainable and resilient social-ecological communities. My research so far has focused on upland environments, both forest and pastoral. I am also interested in environmental governance and knowledge transfer.
 

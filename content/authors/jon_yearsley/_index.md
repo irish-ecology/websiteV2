@@ -2,11 +2,11 @@
 authors:
 - jon_yearsley
 
-People: 
+People:
   courses:
-  - 
+  -
 email: ""
-interests: 
+interests:
 - Lecturer/Assistant Professor at [University College Dublin](https://www.ucd.ie/ecomodel/)
 
 name: Dr. Jon Yearsley
@@ -14,7 +14,7 @@ weight: 4
 organizations:
 - name: University College Dublin
   url: ""
-role: Secretary
+role: Ordinary Member
 social:
 - icon: envelope
   icon_pack: fas
@@ -26,8 +26,5 @@ social:
 superuser: false
 user_groups:
 - Committee
-- 
+-
 ---
-
-
-

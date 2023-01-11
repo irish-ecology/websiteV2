@@ -2,9 +2,9 @@
 authors:
 - mark_emmerson
 
-People: 
+People:
   courses:
-  - 
+  -
 email: ""
 interests:
 - Professor at [Queen's University Belfast](https://pure.qub.ac.uk/en/persons/mark-emmerson)  
@@ -12,9 +12,9 @@ interests:
 name: Prof. Mark Emmerson
 weight: 8
 organizations:
-- name: Queen's University Belfast 
+- name: Queen's University Belfast
   url: " https://pure.qub.ac.uk/en/persons/mark-emmerson"
-role: VP (NI)
+role: President and VP (NI)
 social:
 - icon: envelope
   icon_pack: fas
@@ -26,8 +26,5 @@ social:
 superuser: false
 user_groups:
 - Committee
-- 
+-
 ---
-
-
-
