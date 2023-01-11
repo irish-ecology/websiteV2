@@ -7,7 +7,7 @@ People:
   -
 email: ""
 interests:
-- Lecturer/Assistant Professor in Zoology at [University College Dublin](https://people.ucd.ie/adam.kane) 
+- Lecturer/Assistant Professor in Zoology at [University College Dublin](https://people.ucd.ie/adam.kane)
 
 name: Dr. Adam Kane
 weight: 13
