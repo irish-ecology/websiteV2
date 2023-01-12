@@ -2,9 +2,9 @@
 authors:
 - john_quinn
 
-People: 
+People:
   courses:
-  - 
+  -
 email: ""
 interests:
 - Head of Zoology & Ecology at [University College Cork](http://ornithology.ucc.ie/people/prof-john-quinn/)
@@ -24,15 +24,14 @@ social:
   link: https://twitter.com/irish_ecology
 - icon: google
   icon_pack: fab
-  link: https://scholar.google.co.uk/citations?user=wMp4L-0AAAAJ&hl=en 
+  link: https://scholar.google.com/citations?user=OPP3BSwAAAAJ&hl=en 
 superuser: false
 user_groups:
 - Committee
-- 
+-
 ---
  I am interested in the behaviour, ecology, evolution, and conservation of birds across all environments and ecosystems. My alma mater includes University College Dublin, University of York, and University of Oxford. Current roles: Head of Zoology & Ecology, UCC; Editor, Behavioral Ecology; VP – IEA Republic of Ireland.
 
 
 
 ---
-

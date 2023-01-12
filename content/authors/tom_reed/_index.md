@@ -19,6 +19,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:treed@ucc.ie"
+- icon: google
+  icon_pack: fab
+  link: https://scholar.google.com/citations?user=OPP3BSwAAAAJ&hl=en
 
 
 superuser: false
