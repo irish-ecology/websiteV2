@@ -24,7 +24,7 @@ social:
   link: https://twitter.com/irish_ecology
 - icon: google
   icon_pack: fab
-  link: https://scholar.google.com/citations?user=OPP3BSwAAAAJ&hl=en 
+  link: https://scholar.google.com/citations?user=wMp4L-0AAAAJ&hl=en
 superuser: false
 user_groups:
 - Committee
