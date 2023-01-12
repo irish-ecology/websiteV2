@@ -7,7 +7,7 @@ People:
 courses:
 email: ""
 interests:
--  Senior Lecturer in Zoology, School of Biological, Earth and Environmental Sciences (BEES) at [University College Cork](http://research.ucc.ie/profiles/D026/treed)
+-  Senior Lecturer in Zoology at [University College Cork](http://research.ucc.ie/profiles/D026/treed)
 
 name: Prof. Tom Reed
 weight: 1
@@ -26,6 +26,6 @@ user_groups:
 - Committee
 -
 ---
-Professor Reed is an evolutionary ecologist at University College Cork where he is a senior lecturer. His research concerns exploring how animal populations respond and adapt to changing environments. 
+Professor Reed is an evolutionary ecologist at University College Cork where he is a senior lecturer. His research concerns exploring how animal populations respond and adapt to changing environments.
 
 ---
